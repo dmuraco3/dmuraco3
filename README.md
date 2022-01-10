@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 ## 📚 Blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [When to Use Server-Side rendering vs Static Generation in Next.js](https://dev.to/dmuraco3/when-to-user-server-side-rendering-vs-static-generation-in-nextjs-8ab)
+- [How I host my Next.js side projects for free](https://dev.to/dmuraco3/how-i-host-my-nextjs-side-projects-for-free-4bla)
+- [Responsive Global Navbar in Next.js with tailwindcss](https://dev.to/dmuraco3/responsive-global-navbar-in-nextjs-with-tailwindcss-45p4)
+- [Server Side Rendering, Prisma + Next.js  + TypeScript](https://dev.to/dmuraco3/server-side-rendering-prisma-nextjs-typescript-3kad)
 <!-- BLOG-POST-LIST:END -->
