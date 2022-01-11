@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [`Authentication`](https://github.com/dmuraco3/react-firebase-auth)
+- 🔭 I’m currently working on [`CodeComponents`](https://github.com/dmuraco3/CodeComponents)
 - 🌱 I’m currently learning `Web Development/Typescript`
 - 👯 I’m looking to collaborate on `Anything`
 - 💬 Ask me about `Next.js/TailwindCSS/ `
-- 📫 How to reach me: <a href="mailto://dylanjmuraco@gmail.com" target="_blank">`dylanjmuraco@gmail.com`</a>
-- ⚡ Fun fact: I like cooking
+- 📫 How to reach me: <a href="mailto:dylanjmuraco@gmail.com" target="_blank">`dylanjmuraco@gmail.com`</a>
+- ⚡ Fun fact: I love music
 
 ## 📚 Blog posts 
 <!-- BLOG-POST-LIST:START -->
